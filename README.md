@@ -1,6 +1,6 @@
 # Waveshare ESP32-P4-WIFI6-Touch-LCD-7B-C MicroPython BSP
 
-专为 **微雪 (Waveshare) ESP32-P4-WIFI6-Touch-LCD-7B-C** 评估套件深度定制的高性能 MicroPython C 扩展驱动与整机测试系统。
+专为 **微雪 (Waveshare) ESP32-P4-WIFI6-Touch-LCD-7B-C** 评估套件深度定制的高性能 MicroPython C 扩展驱动与整机测试系统，并且使用IDFv6.2。
 
 本项目利用 ESP32-P4 的高性能多媒体管线与双核 RISC-V 400MHz 算力，打通了 1024×600 MIPI-DSI 双显存 Framebuffer、片上 2D 硬件加速引擎 (PPA)、GT911 原生电容触控、全字库中文字模引擎、ES8311 音频编解码输出、ES7210 四通道双麦 AEC 回声消除与降噪拾音，以及工业现场通信总线（CAN/TWAI、RS-485、独立安全 UART1、I2C）。
 
